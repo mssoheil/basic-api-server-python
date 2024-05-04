@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-# from functools import filter
 
 app = Flask(__name__)
 
